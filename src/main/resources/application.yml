@@ -1,0 +1,11 @@
+#yml\u914D\u7F6E
+
+spring:
+  activemq:
+    broker-url: tcp://localhost:61616
+    in-memory: true
+    pool:
+      enabled: false
+      password: admin
+      user: admin
+
